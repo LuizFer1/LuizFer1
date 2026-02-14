@@ -12,9 +12,6 @@ I'm currently working on developing my own SaaS called CoWatch. I'm looking to c
 ![](https://nirzak-streak-stats.vercel.app/?user=luizfer1&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfer1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luizfer1&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
